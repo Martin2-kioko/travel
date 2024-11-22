@@ -1,1 +1,1 @@
-# travel
+simple linear regression model
